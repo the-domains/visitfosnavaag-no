@@ -1,0 +1,28 @@
+name: Visitfosnavaag.no
+favicon: null
+layout_spectrum: 0.8775423490442336
+typography_spectrum: 0.43048498686403036
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4232151419855654
+  lightness: 0.29958597128279507
+  saturation: 0.26670428132638335
+  rhythmicContrast: 0.3668302583973855
+purpose: []
